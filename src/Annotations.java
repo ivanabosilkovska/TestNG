@@ -4,7 +4,8 @@ public class Annotations {
 
     @BeforeMethod
     void beforeMethod(){
-        System.out.println(" This will execute before every method...");
+        System.out.println(" This will execute before every Method");
+        System.out.println("Learning GIT");
     }
 
     @AfterMethod
